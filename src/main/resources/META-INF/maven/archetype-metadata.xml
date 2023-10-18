@@ -19,9 +19,6 @@
         <requiredProperty key="projectDescription">
             <defaultValue>An example Java 21 project using Maven and JUnit 5.x</defaultValue>
         </requiredProperty>
-        <requiredProperty key="gitignore">
-            <defaultValue>.gitignore</defaultValue>
-        </requiredProperty>
     </requiredProperties>
 
     <fileSets>
